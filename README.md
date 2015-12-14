@@ -13,7 +13,7 @@ Configs and dotfiles
 
 # Installing Arch Linux quickly
 
-[Architect Linux](http://sourceforge.net/projects/architect-linux/)
+[Architect Linux - Live ISO from doing a clean Arch Install](http://sourceforge.net/projects/architect-linux/)
 
 # Screenshot
 
