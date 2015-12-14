@@ -14,4 +14,3 @@ Configs and dotfiles
 # Screenshot
 
 ![screenshot](screenFetch-2015-12-14_14-17-32.png)
-Format: ![Alt Text](url)
