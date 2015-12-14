@@ -17,5 +17,4 @@ Configs and dotfiles
 
 # Installing Arch Linux quickly
 
-http://sourceforge.net/projects/architect-linux/ - automatic!
 [Architect Linux](http://sourceforge.net/projects/architect-linux/)
