@@ -2,7 +2,7 @@
 
 Configs and dotfiles
 
-- OS: Arch Linux
+- OS: Arch Linux (using Architect OS)
 - Terminal: zsh + oh my zsh + rxvt-unicode
 - WM/DE: i3-gaps (AUR) / XFCE4
 - File Manager: Thunar
@@ -14,3 +14,8 @@ Configs and dotfiles
 # Screenshot
 
 ![screenshot](screenFetch-2015-12-14_14-17-32.png)
+
+# Installing Arch Linux quickly
+
+http://sourceforge.net/projects/architect-linux/ - automatic!
+[Architect Linux](http://sourceforge.net/projects/architect-linux/)
