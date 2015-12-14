@@ -1,0 +1,25 @@
+[Configuration]
+ColorCursor=#eeeeeeeeeeee
+ColorForeground=#eeeeeeeeeeee
+ColorBackground=#111A20
+ColorPalette=#101010101010;#bdbd4a4a4a4a;#b7b7cece4242;#fefea6a63c3c;#3a3a52526b6b;#ffff58587979;#7272adad8c8c;#ddddeeeedddd;#565656565656;#cccc66666666;#bdbde0e07777;#eaeaa5a55353;#6666aaaabbbb;#f2f26b6b9e9e;#9f9fe3e3bcbc;#ffffffffffff
+FontName=GohuFont 10
+MiscAlwaysShowTabs=FALSE
+MiscBell=FALSE
+MiscBordersDefault=FALSE
+MiscCursorBlinks=FALSE
+MiscCursorShape=TERMINAL_CURSOR_SHAPE_BLOCK
+MiscDefaultGeometry=80x24
+MiscInheritGeometry=FALSE
+MiscMenubarDefault=FALSE
+MiscMouseAutohide=FALSE
+MiscToolbarDefault=FALSE
+MiscConfirmClose=TRUE
+MiscCycleTabs=TRUE
+MiscTabCloseButtons=TRUE
+MiscTabCloseMiddleClick=TRUE
+MiscTabPosition=GTK_POS_TOP
+MiscHighlightUrls=TRUE
+ScrollingBar=TERMINAL_SCROLLBAR_NONE
+FontAllowBold=FALSE
+

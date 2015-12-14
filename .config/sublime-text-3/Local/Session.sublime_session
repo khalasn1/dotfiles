@@ -1,0 +1,1326 @@
+{
+	"folder_history":
+	[
+		"/home/sherby/Documents/ad/adprojecto1",
+		"/home/sherby/lemonbar",
+		"/home/sherby/Documents/pco/test",
+		"/home/sherby/Documents/css/cssFC44314/aula5",
+		"/home/sherby/Documents/pco/pco_ppo_project1_demo/decompiled",
+		"/home/sherby/Documents/pco/pco_ppo_project1",
+		"/home/sherby/Documents/css/cssFC44314",
+		"/home/sherby/Documents/css/cssFC44314/aula3",
+		"/home/sherby/Documents/css/cssFC44314/aula4",
+		"/home/sherby/Documents/css/cssFC44314/aula2",
+		"/home/sherby/Documents/freelancing/final_cenas",
+		"/home/sherby/Documents/freelancing/cenas",
+		"/home/sherby/cenas",
+		"/home/sherby/gavetas",
+		"/home/sherby/Documents/freelancing/gavetas",
+		"/home/sherby/temp_itw/Memory",
+		"/home/sherby/Documents/itw",
+		"/home/sherby/Documents/ad/money",
+		"/home/sherby/Documents/ad/adprojecto4",
+		"/home/sherby/Documents/ad/adprojecto1/adprojecto1",
+		"/home/sherby/Documents/asw/aswprojecto1/aswprojecto1",
+		"/home/sherby/Documents/ad/adprojecto",
+		"/home/sherby/Documents/ad/adprojecto3"
+	],
+	"last_version": 3083,
+	"last_window_id": 41,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 728.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"for",
+						"fore	for (each)"
+					],
+					[
+						"Ite",
+						"IteradorFibs"
+					],
+					[
+						"re",
+						"resultado"
+					],
+					[
+						"So",
+						"somaDivisoresTest"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"if",
+						"ife	if … else"
+					],
+					[
+						"g",
+						"getElementById"
+					],
+					[
+						"c",
+						"card_src"
+					],
+					[
+						"car",
+						"card_src"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"class",
+						"class_up"
+					],
+					[
+						"get",
+						"getAttribute"
+					],
+					[
+						"cl",
+						"class_up"
+					],
+					[
+						"set",
+						"setAttribute"
+					],
+					[
+						"sh",
+						"shuffle"
+					],
+					[
+						"gra",
+						"graficos"
+					],
+					[
+						"ab",
+						"abcissas"
+					],
+					[
+						"client",
+						"client_novo"
+					],
+					[
+						"cli",
+						"clients_conn"
+					],
+					[
+						"a",
+						"a"
+					],
+					[
+						"ba",
+						"bashCommand"
+					],
+					[
+						"li",
+						"list"
+					],
+					[
+						"pre",
+						"pretexto"
+					],
+					[
+						"ra",
+						"raw_input"
+					],
+					[
+						"cont",
+						"contaPrefixos"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 208.0,
+				"last_filter": "buid",
+				"selected_items":
+				[
+					[
+						"buid",
+						"Build With: LaTeX"
+					],
+					[
+						"package",
+						"LaTeXTools: Build cache for LaTeX packages"
+					],
+					[
+						"build",
+						"Build With: LaTeX"
+					],
+					[
+						"",
+						"Build: Cancel"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"buil",
+						"Build: Cancel"
+					],
+					[
+						"late",
+						"LaTeXTools: Reconfigure and migrate settings"
+					],
+					[
+						"latex",
+						"LaTeXTools: Reconfigure and migrate settings"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"fold",
+						"Code Folding: Unfold All"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Add Channel"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"map",
+						"View: Toggle Minimap"
+					],
+					[
+						"vi",
+						"View: Toggle Menu"
+					],
+					[
+						"vie",
+						"View: Toggle Menu"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 457.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/sherby/Documents/ad/adprojecto1/hkvs_client.py",
+				"/home/sherby/Documents/ad/adprojecto1/configservice.py",
+				"/home/sherby/Documents/pgp/cenas.tex",
+				"/home/sherby/Documents/pgp/pgp_fase2/fase2.tex",
+				"/home/sherby/Documents/ad/adprojecto1/hkvs_stub.py",
+				"/home/sherby/Documents/ad/adprojecto1/hkvs_server.py",
+				"/home/sherby/Documents/ad/adprojecto1/hkvs_durable.py",
+				"/home/sherby/Documents/ad/adprojecto1/hkvs_skel.py",
+				"/home/sherby/Documents/ad/adprojecto1/remote_hkvs.py",
+				"/home/sherby/Documents/pgp/pgp_fase2/temp.txt",
+				"/home/sherby/Documents/pgp/pgp_fase2/fase2.log",
+				"/run/user/1000/gvfs/mtp:host=%5Busb%3A002%2C003%5D/SD card/Wireless (1).txt",
+				"/home/sherby/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+				"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C009%5D/SD card/music.txt",
+				"/home/sherby/backup/priority.txt",
+				"/home/sherby/backup/smartphone.txt",
+				"/home/sherby/backup/commands.txt",
+				"/home/sherby/backup/flag_clock.sh",
+				"/home/sherby/Documents/pgp/pgp_fase2/tabela.txt",
+				"/home/sherby/backup/remote.txt",
+				"/home/sherby/backup/ip.txt",
+				"/home/sherby/Documents/ftv/relatorio1.tex",
+				"/home/sherby/Documents/css/css.tex",
+				"/home/sherby/Documents/css/css002.tex",
+				"/home/sherby/xinitrc",
+				"/home/sherby/cenas.py",
+				"/home/sherby/backup/backup/notas sobre formatacao e a vida.txt",
+				"/home/sherby/Documents/css/css002.log",
+				"/etc/pacman.conf",
+				"/home/sherby/Documents/pgp/pgp_fase2_merge/fase2.tex",
+				"/home/sherby/Documents/pco/pco_projecto2/src/spacerace/players/HumanPlayer.java",
+				"/home/sherby/Documents/scripts/vpnciencias/ciencias.options.xl2tpd",
+				"/home/sherby/Documents/scripts/vpnciencias/ipsec.secrets",
+				"/home/sherby/Documents/scripts/vpnciencias/ipsec.conf",
+				"/home/sherby/Documents/pco/pco_projecto2/src/spacerace/players/StraightAheadPlayer.java",
+				"/home/sherby/Documents/pco/pco_projecto2/bin/spacerace/players/HumanPlayer.class",
+				"/home/sherby/Documents/pco/pco_projecto2/bin/spacerace/GameLevelReader.class",
+				"/tmp/CADI.txt",
+				"/home/sherby/.config/sublime-text-3/Packages/LaTeXTools/README.markdown",
+				"/home/sherby/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+				"/home/sherby/Documents/so/ep2/ep2.py",
+				"/home/sherby/lemonbar/.dotfiles/.i3/config",
+				"/home/sherby/Documents/pgp/Fase 2/template.tex",
+				"/home/sherby/Documents/CADI.txt",
+				"/home/sherby/Documents/so/ep3/ep3.py",
+				"/home/sherby/lemonbar/.dotfiles/.gitconfig",
+				"/home/sherby/flag_clock.sh",
+				"/home/sherby/ip.txt",
+				"/home/sherby/priority.txt",
+				"/home/sherby/commands.txt",
+				"/home/sherby/remote.txt",
+				"/home/sherby/Documents/css/cssFC44314/aula5/src/persistence/SaleRowDataGateway.java",
+				"/home/sherby/temp.txt.save",
+				"/run/media/sherby/TESTESUSB/TestesUSB   LINUX/Instruções - LINUX.txt",
+				"/home/sherby/Documents/css/aula4_persistense.java",
+				"/home/sherby/Documents/pco/pco_ppo_project1_demo/decompiled/test.java",
+				"/home/sherby/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/sherby/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/sherby/Documents/css/cssFC44314/aula4/src/business/SaleStatus.java",
+				"/home/sherby/.videos/links",
+				"/home/sherby/aposta.txt",
+				"/home/sherby/Documents/css/cssFC44314/aula3/src/application/CustomerService.java",
+				"/home/sherby/Documents/css/cssFC44314/aula3/src/application/SaleService.java",
+				"/home/sherby/android.txt",
+				"/home/sherby/fourdown.py",
+				"/home/sherby/de",
+				"/home/sherby/exerc.java",
+				"/home/sherby/reflexoes.txt",
+				"/home/sherby/syncdir.sh",
+				"/home/sherby/teste.java",
+				"/home/sherby/Documents/css/cssFC44314/aula3/doc/index-files/index-1.html",
+				"/home/sherby/Downloads/Calculador_de_Euros.py",
+				"/home/sherby/cenas.txt",
+				"/home/sherby/Documents/css/codigoLab2/EquationsSolver.java",
+				"/home/sherby/Documents/css/codigoLab2/IteradorFibs.java",
+				"/home/sherby/Documents/css/codigoLab2/IteradorFibsTest.java",
+				"/home/sherby/Documents/css/tp2.java",
+				"/home/sherby/Documents/Servicos e requirementos.txt",
+				"/home/sherby/Documents/Web Development General.txt",
+				"/home/sherby/Downloads/trpl-2015-07-31.tex",
+				"/home/sherby/Downloads/Web Development General.txt",
+				"/home/sherby/bssid.txt",
+				"/home/sherby/site.js",
+				"/opt/lampp/htdocs/application/config/config.php",
+				"/opt/lampp/htdocs/style.css",
+				"/opt/lampp/htdocs/readme.rst",
+				"/opt/lampp/htdocs/license.txt",
+				"/home/sherby/gavetas/index.html",
+				"/home/sherby/gavetas/login.html",
+				"/home/sherby/Documents/freelancing/gavetas/site_01.xml",
+				"/home/sherby/Documents/freelancing/gavetas/site.py",
+				"/home/sherby/Documents/freelancing/gavetas/gavetas.py",
+				"/home/sherby/Documents/freelancing/gavetas/bastidor.py",
+				"/home/sherby/pod2htmd.tmp",
+				"/home/sherby/Documents/win10 debloat.txt",
+				"/home/sherby/Documents/freelancing/gavetas/README.md",
+				"/home/sherby/Documents/freelancing/gavetas/ElementTree.py",
+				"/home/sherby/Documents/freelancing/gavetas/main.py",
+				"/home/sherby/Downloads/site1.xml",
+				"/home/sherby/Documents/itw/jogo.js",
+				"/home/sherby/Downloads/Arquivo/script.js",
+				"/home/sherby/Downloads/Arquivo/teste1.html",
+				"/home/sherby/Documents/itw/jogo_segundo.js",
+				"/home/sherby/Documents/itw/cenas/jogo.js",
+				"/home/sherby/Documents/scripts/alias.txt",
+				"/home/sherby/Documents/restricoes.txt",
+				"/home/sherby/.Xresources",
+				"/home/sherby/.i3/config",
+				"/home/sherby/Documents/scripts/configs/package_list.txt",
+				"/home/sherby/vbox.sh",
+				"/home/sherby/Documents/scripts/configs/README.md",
+				"/home/sherby/Downloads/lab9.py",
+				"/home/sherby/prog2.py",
+				"/home/sherby/temp_itw/index.css",
+				"/home/sherby/temp_itw/jogar.html",
+				"/home/sherby/temp_itw/jogo.html",
+				"/home/sherby/temp_itw/jogar1.html",
+				"/home/sherby/temp_itw/memory.js",
+				"/home/sherby/temp_itw/scores.js",
+				"/home/sherby/temp_itw/scores.html",
+				"/home/sherby/Documents/scripts/terminalrc",
+				"/home/sherby/Documents/scripts/misc/find-broken-perl-packages.sh",
+				"/home/sherby/Documents/scripts/misc/terminalrc_bue",
+				"/home/sherby/temp_itw/final/cenas.js",
+				"/home/sherby/temp_itw/jogar3.html",
+				"/home/sherby/temp_itw/jogar2.html",
+				"/home/sherby/temp_itw/final/memory_script.js",
+				"/home/sherby/temp_itw/final/index.html"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\n\\",
+					"itemize",
+					"Feito",
+					"linux",
+					"\\noindent",
+					"this.n",
+					"this.SeqNotes",
+					"int",
+					"file",
+					"283D4B",
+					"304959",
+					"19262F",
+					"616161",
+					"737373",
+					"DDEEDD",
+					"565656",
+					"4D3941",
+					"#111A20",
+					"b_p",
+					"a_p",
+					"tempo",
+					"a",
+					"imagens",
+					"cards",
+					"array",
+					"turn_up",
+					"tile.innerHTML",
+					"restart",
+					"GameContro",
+					"config",
+					"client",
+					"sock_backup",
+					"addr",
+					"hola",
+					"Tile",
+					"tile",
+					"Tile",
+					"tile",
+					"Tile",
+					"tile",
+					"Tile",
+					"randomInd",
+					"drawFaceUp",
+					"drawFaceDown",
+					"Tile",
+					"pickle",
+					"Sock",
+					"sock",
+					"SOCK",
+					"sock",
+					"SOCK",
+					"sock",
+					"meta",
+					"half",
+					"l",
+					"graphic",
+					"len(graphic)",
+					"lst",
+					"cert",
+					"client_auth[a]",
+					"client",
+					"exemplo",
+					"#47c9af",
+					"origin",
+					"table",
+					"t",
+					"userName",
+					"username",
+					"userName",
+					"pass",
+					"userName",
+					"fullname",
+					"conn_sock",
+					"ssl_sock",
+					"Sock",
+					"sock",
+					"Sock",
+					"sock",
+					"Sock",
+					"sock",
+					"self.sock",
+					"list",
+					"Prefixos",
+					"43529",
+					"mydb",
+					"jogador",
+					"#000000000000"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 214.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 116.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/Documents/pgp/cenas.tex"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 144.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1326.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"for",
+						"fore	for (each)"
+					],
+					[
+						"Ite",
+						"IteradorFibs"
+					],
+					[
+						"re",
+						"resultado"
+					],
+					[
+						"So",
+						"somaDivisoresTest"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"if",
+						"ife	if … else"
+					],
+					[
+						"g",
+						"getElementById"
+					],
+					[
+						"c",
+						"card_src"
+					],
+					[
+						"car",
+						"card_src"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"class",
+						"class_up"
+					],
+					[
+						"get",
+						"getAttribute"
+					],
+					[
+						"cl",
+						"class_up"
+					],
+					[
+						"set",
+						"setAttribute"
+					],
+					[
+						"sh",
+						"shuffle"
+					],
+					[
+						"gra",
+						"graficos"
+					],
+					[
+						"ab",
+						"abcissas"
+					],
+					[
+						"client",
+						"client_novo"
+					],
+					[
+						"cli",
+						"clients_conn"
+					],
+					[
+						"a",
+						"a"
+					],
+					[
+						"ba",
+						"bashCommand"
+					],
+					[
+						"li",
+						"list"
+					],
+					[
+						"pre",
+						"pretexto"
+					],
+					[
+						"ra",
+						"raw_input"
+					],
+					[
+						"cont",
+						"contaPrefixos"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/sherby/Documents/pgp/pgp_fase2/fase3.tex",
+					"settings":
+					{
+						"buffer_size": 37295,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "%formatação do documento e tipo do documento\n\\documentclass[12pt, a4paper, twoside]{report} %inicio do doc\n\n%pacotes de extensões\n\\usepackage[portuges]{babel} %pkg da lingua portugues\n\\usepackage[latin1,utf8]{inputenc} %pkg da lingua portugues\n\\usepackage{verbatim} %pkg para escrever sem formataçao\n\\usepackage{color} %usar cores nas letras\n\\usepackage{graphicx} %usar imagens no doc\n\\usepackage[table,xcdraw]{xcolor}\n\\usepackage{makeidx}\n\\usepackage{anysize} % para formatar o tamanho do documento\n\\usepackage{multirow}\n\\usepackage{mathtools}\n\\usepackage{wrapfig}\n\\usepackage{footnote}\n\n\\makeindex\n\n\\begin{document}\n\n\\title{%\n	\\textbf{Fundamentos e Técnicas de Visualizações}\\\\ \n	\\large Relatório \\textit{Paraview}, FTV030\n}\n\n\\author{%\nFrancisco Pires, nº 44314 \\\\\nJoão Cardoso, nº 45103 \\\\\nMiguel Malhado, nº 45104 \\\n\\}\n\n\\date{\\today}\n\\maketitle\n\\tableofcontents\n\n\\chapter{Detalhe do trabalho}\n\n\\section{Alínea A}\n\nPara completar esta alínea, abrimos duas vezes o ficheiro \\texttt{dados\\_solo.vtk} no programa \\textit{Paraview}.\nUma das representações vai usar a opção \\textit{outline} e a outra \\textit{points}.\n\n\\begin{figure}[h!]\n  \\centering\n	\\includegraphics[width=0.8\\textwidth]{a.jpg}\n   %\\caption{Exemplo de um Processo Unificado}\n\\end{figure}\n\n\\clearpage\n\n\\section{Alínea B}\n\nPara representar a grandeza escalar pH vamos utilizar a opção \\textit{slice} nos \\texttt{dados\\_solo.vtk}. Os valores de pH no ficheiro variam entre 0 e 11.4. Vamos fazer esta opção quatro vezes, para representar as quatro estações do ano. Todos os \\textit{slice}s vão ser feitos na escala Z, de .1 a 30.\n\\\\\n\\\\\n\n\\subsection{Slice Primavera}\n\n\\noindent O primeiro \\textit{slice} vai ser feito com o valor 0.1, representativo da estação Primavera, como visto na seguinte imagem. Verificamos que o pH é em quase toda a amostra neutro, com uma pequena área extremamente ácida, e outras menos ácidas.\n\n\\begin{figure}[h!]\n  \\centering\n	\\includegraphics[width=0.6\\textwidth]{prii.jpg}\n   \\caption{\\textit{slice} da estação Primavera}\n\\end{figure}\n\n\\subsection{Slice Verão}\n\n\\noindent O segundo \\textit{slice} vai ser feito com o valor 10, representativo da estação Verão, como visto na seguinte imagem. Podemos verificar que neste \\textit{slice} o pH começa a ficar ligeiramente mais ácido em todas as áreas, em comparação com a Primavera.\n\n\\begin{figure}[h!]\n  \\centering\n	\\includegraphics[width=0.6\\textwidth]{verr.jpg}\n   \\caption{\\textit{slice} da estação Verão}\n\\end{figure}\n\n\\clearpage\n\n\\subsection{Slice Outono}\n\n\\noindent O terceiro \\textit{slice} vai ser feito com o valor 20, representativo da estação Outono, como visto na seguinte imagem. Neste \\textit{slice}, não existem quase áreas ácidas, e o pH nas restantes volta a ficar mais básico.\n\n\\begin{figure}[h!]\n  \\centering\n	\\includegraphics[width=0.6\\textwidth]{outt.jpg}\n   \\caption{\\textit{slice} da estação Outono}\n\\end{figure}\n\n\\subsection{Slice Inverno}\n\n\\noindent O quarto \\textit{slice} vai ser feito com o valor 30, representativo da estação Inverno, como visto na seguinte imagem. Neste ultimo \\textit{slice}, o pH passa de básico para neutro, com áreas a tenderem para o ácido.\n\n\\begin{figure}[h!]\n  \\centering\n	\\includegraphics[width=0.6\\textwidth]{invv.jpg}\n   \\caption{\\textit{slice} da estação Inverno}\n\\end{figure}\n\n\\clearpage\n\n\\subsection{Todos os Slices}\n\n\\noindent Podemos concluir que o pH altera consoante as épocas do ano, ficando mais neutro durante as épocas de calor (Primavera e Verão) e ficando mais básico durante as épocas de frio (Outono e Inverno).\n\n\\begin{figure}[h!]\n  \\centering\n	\\includegraphics[width=0.6\\textwidth]{slicess.jpg}\n   \\caption{\\textit{slice} de todas as estação}\n\\end{figure}\n\n\\section{Alínea C}\n \n\\noindent Nesta parte do trabalho, usamos a opção \\textit{Contour} (usado para criar \\textit{isolinhas} e \\textit{isosuperfícies}) do slice do Verão, em que escolhemos o contorno pH e o quatro valores do domínio de variação da variável. Para fazer isto, nas propriedades do \\textit{Contour}, colocamos os ranges do pH entre 0 e 11.4 em quatro passos, separados em quatro pontos regulares.\n\n\\begin{figure}[h!]\n  \\centering\n	\\includegraphics[width=1\\textwidth]{isolinhass.jpg}\n   \\caption{\\textit{Isolinha} do Verão}\n\\end{figure}\n\n\\clearpage\n\n\\section{Alínea D}\n\nPara a realização desta alínea, voltamos a aplicar a opção \\textit{Contour} no ficheiro \\texttt{dados\\_solo.vtk}. Aplicamos depois um contorno por pH, no range de 0 a 11.4 (igual á isosuperficie separada em quatro pontos regulares).\n\n\\begin{figure}[h!]\n  \\centering\n	\\includegraphics[width=0.8\\textwidth]{isosuperficiee.jpg}\n   \\caption{\\textit{Isosuperficie}}\n\\end{figure}\n\n\n\\section{Alínea E}\n\nPara esta alínea, criamos um novo slice dos \\texttt{dados\\_solo.vtk} com os valores do Verão, mas o \\textit{Coloring} foi filtrado em \\textit{orgMatter}. De seguida, usamos a opção \\textit{Wrap By Scalar} e filtramos usando os valores de pH.\n\n\\begin{figure}[h!]\n  \\centering\n	\\includegraphics[width=0.8\\textwidth]{deformacaoo.jpg}\n   \\caption{Deformação}\n\\end{figure}\n\n\\clearpage\n\n\\section{Alinea F}\n\nPara esta alínea, voltamos a criar um slice dos \\texttt{dados\\_solo.vtk} com os valores de Verão, filtrado em ph na opção \\textit{Coloring}. De seguida, escolhemos a opção \\textit{Glyph} e a opção \\textit{pft} no \\textit{Scalars}. Escolhemos a opção esfera no tipo de \\textit{glyph} e usamos um raio de 0.1. N apropriedade do \\textit{glyph}, aplicamos o \\textit{Coloring} com o filtro \\textit{pft}.\n\n\n\\begin{figure}[h!]\n  \\centering\n	\\includegraphics[width=0.9\\textwidth]{ghyphh.jpg}\n   \\caption{\\textit{Glyphs}}\n\\end{figure}\n\n\n\n\\end{document}",
+					"file": "/home/sherby/Documents/ftv/paraviewRelat.tex",
+					"file_size": 5694,
+					"file_write_time": 130944190200606598,
+					"settings":
+					{
+						"buffer_size": 5592,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sherby/.zsh-update",
+					"settings":
+					{
+						"buffer_size": 17,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sherby/.zshrc",
+					"settings":
+					{
+						"buffer_size": 2962,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 242.0,
+				"last_filter": "buil",
+				"selected_items":
+				[
+					[
+						"buil",
+						"Build With: LaTeX"
+					],
+					[
+						"",
+						"Build: Cancel"
+					],
+					[
+						"build",
+						"Build With: LaTeX"
+					],
+					[
+						"buid",
+						"Build With: LaTeX"
+					],
+					[
+						"package",
+						"LaTeXTools: Build cache for LaTeX packages"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"late",
+						"LaTeXTools: Reconfigure and migrate settings"
+					],
+					[
+						"latex",
+						"LaTeXTools: Reconfigure and migrate settings"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"fold",
+						"Code Folding: Unfold All"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Add Channel"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"map",
+						"View: Toggle Minimap"
+					],
+					[
+						"vi",
+						"View: Toggle Menu"
+					],
+					[
+						"vie",
+						"View: Toggle Menu"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 457.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/sherby/Documents/ad/adprojecto1"
+			],
+			"file_history":
+			[
+				"/home/sherby/xinitrc",
+				"/home/sherby/temp.txt",
+				"/home/sherby/.screenlayout/dell22.sh",
+				"/home/sherby/Documents/ad/adprojecto1/hkvs_stub.py",
+				"/home/sherby/Documents/so/ep3/ep3.py",
+				"/home/sherby/Downloads/riscospgp.docx.txt",
+				"/home/sherby/Documents/pgp/pgp_fase2/tabela.txt",
+				"/home/sherby/Documents/pgp/pgp_fase2/temp.txt",
+				"/home/sherby/Documents/ad/adprojecto1/hkvs_client.py",
+				"/home/sherby/Documents/ad/adprojecto1/configservice.py",
+				"/home/sherby/Documents/pgp/cenas.tex",
+				"/home/sherby/Documents/pgp/pgp_fase2/fase2.tex",
+				"/home/sherby/Documents/ad/adprojecto1/hkvs_server.py",
+				"/home/sherby/Documents/ad/adprojecto1/hkvs_durable.py",
+				"/home/sherby/Documents/ad/adprojecto1/hkvs_skel.py",
+				"/home/sherby/Documents/ad/adprojecto1/remote_hkvs.py",
+				"/home/sherby/Documents/pgp/pgp_fase2/fase2.log",
+				"/run/user/1000/gvfs/mtp:host=%5Busb%3A002%2C003%5D/SD card/Wireless (1).txt",
+				"/home/sherby/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+				"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C009%5D/SD card/music.txt",
+				"/home/sherby/backup/priority.txt",
+				"/home/sherby/backup/smartphone.txt",
+				"/home/sherby/backup/commands.txt",
+				"/home/sherby/backup/flag_clock.sh",
+				"/home/sherby/backup/remote.txt",
+				"/home/sherby/backup/ip.txt",
+				"/home/sherby/Documents/ftv/relatorio1.tex",
+				"/home/sherby/Documents/css/css.tex",
+				"/home/sherby/Documents/css/css002.tex",
+				"/home/sherby/cenas.py",
+				"/home/sherby/backup/backup/notas sobre formatacao e a vida.txt",
+				"/home/sherby/Documents/css/css002.log",
+				"/etc/pacman.conf",
+				"/home/sherby/Documents/pgp/pgp_fase2_merge/fase2.tex",
+				"/home/sherby/Documents/pco/pco_projecto2/src/spacerace/players/HumanPlayer.java",
+				"/home/sherby/Documents/scripts/vpnciencias/ciencias.options.xl2tpd",
+				"/home/sherby/Documents/scripts/vpnciencias/ipsec.secrets",
+				"/home/sherby/Documents/scripts/vpnciencias/ipsec.conf",
+				"/home/sherby/Documents/pco/pco_projecto2/src/spacerace/players/StraightAheadPlayer.java",
+				"/home/sherby/Documents/pco/pco_projecto2/bin/spacerace/players/HumanPlayer.class",
+				"/home/sherby/Documents/pco/pco_projecto2/bin/spacerace/GameLevelReader.class",
+				"/tmp/CADI.txt",
+				"/home/sherby/.config/sublime-text-3/Packages/LaTeXTools/README.markdown",
+				"/home/sherby/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+				"/home/sherby/Documents/so/ep2/ep2.py",
+				"/home/sherby/lemonbar/.dotfiles/.i3/config",
+				"/home/sherby/Documents/pgp/Fase 2/template.tex",
+				"/home/sherby/Documents/CADI.txt",
+				"/home/sherby/lemonbar/.dotfiles/.gitconfig",
+				"/home/sherby/flag_clock.sh",
+				"/home/sherby/ip.txt",
+				"/home/sherby/priority.txt",
+				"/home/sherby/commands.txt",
+				"/home/sherby/remote.txt",
+				"/home/sherby/Documents/css/cssFC44314/aula5/src/persistence/SaleRowDataGateway.java",
+				"/home/sherby/temp.txt.save",
+				"/run/media/sherby/TESTESUSB/TestesUSB   LINUX/Instruções - LINUX.txt",
+				"/home/sherby/Documents/css/aula4_persistense.java",
+				"/home/sherby/Documents/pco/pco_ppo_project1_demo/decompiled/test.java",
+				"/home/sherby/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/sherby/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/sherby/Documents/css/cssFC44314/aula4/src/business/SaleStatus.java",
+				"/home/sherby/.videos/links",
+				"/home/sherby/aposta.txt",
+				"/home/sherby/Documents/css/cssFC44314/aula3/src/application/CustomerService.java",
+				"/home/sherby/Documents/css/cssFC44314/aula3/src/application/SaleService.java",
+				"/home/sherby/android.txt",
+				"/home/sherby/fourdown.py",
+				"/home/sherby/de",
+				"/home/sherby/exerc.java",
+				"/home/sherby/reflexoes.txt",
+				"/home/sherby/syncdir.sh",
+				"/home/sherby/teste.java",
+				"/home/sherby/Documents/css/cssFC44314/aula3/doc/index-files/index-1.html",
+				"/home/sherby/Downloads/Calculador_de_Euros.py",
+				"/home/sherby/cenas.txt",
+				"/home/sherby/Documents/css/codigoLab2/EquationsSolver.java",
+				"/home/sherby/Documents/css/codigoLab2/IteradorFibs.java",
+				"/home/sherby/Documents/css/codigoLab2/IteradorFibsTest.java",
+				"/home/sherby/Documents/css/tp2.java",
+				"/home/sherby/Documents/Servicos e requirementos.txt",
+				"/home/sherby/Documents/Web Development General.txt",
+				"/home/sherby/Downloads/trpl-2015-07-31.tex",
+				"/home/sherby/Downloads/Web Development General.txt",
+				"/home/sherby/bssid.txt",
+				"/home/sherby/site.js",
+				"/opt/lampp/htdocs/application/config/config.php",
+				"/opt/lampp/htdocs/style.css",
+				"/opt/lampp/htdocs/readme.rst",
+				"/opt/lampp/htdocs/license.txt",
+				"/home/sherby/gavetas/index.html",
+				"/home/sherby/gavetas/login.html",
+				"/home/sherby/Documents/freelancing/gavetas/site_01.xml",
+				"/home/sherby/Documents/freelancing/gavetas/site.py",
+				"/home/sherby/Documents/freelancing/gavetas/gavetas.py",
+				"/home/sherby/Documents/freelancing/gavetas/bastidor.py",
+				"/home/sherby/pod2htmd.tmp",
+				"/home/sherby/Documents/win10 debloat.txt",
+				"/home/sherby/Documents/freelancing/gavetas/README.md",
+				"/home/sherby/Documents/freelancing/gavetas/ElementTree.py",
+				"/home/sherby/Documents/freelancing/gavetas/main.py",
+				"/home/sherby/Downloads/site1.xml",
+				"/home/sherby/Documents/itw/jogo.js",
+				"/home/sherby/Downloads/Arquivo/script.js",
+				"/home/sherby/Downloads/Arquivo/teste1.html",
+				"/home/sherby/Documents/itw/jogo_segundo.js",
+				"/home/sherby/Documents/itw/cenas/jogo.js",
+				"/home/sherby/Documents/scripts/alias.txt",
+				"/home/sherby/Documents/restricoes.txt",
+				"/home/sherby/.Xresources",
+				"/home/sherby/.i3/config",
+				"/home/sherby/Documents/scripts/configs/package_list.txt",
+				"/home/sherby/vbox.sh",
+				"/home/sherby/Documents/scripts/configs/README.md",
+				"/home/sherby/Downloads/lab9.py",
+				"/home/sherby/prog2.py",
+				"/home/sherby/temp_itw/index.css",
+				"/home/sherby/temp_itw/jogar.html",
+				"/home/sherby/temp_itw/jogo.html",
+				"/home/sherby/temp_itw/jogar1.html",
+				"/home/sherby/temp_itw/memory.js",
+				"/home/sherby/temp_itw/scores.js",
+				"/home/sherby/temp_itw/scores.html",
+				"/home/sherby/Documents/scripts/terminalrc",
+				"/home/sherby/Documents/scripts/misc/find-broken-perl-packages.sh",
+				"/home/sherby/Documents/scripts/misc/terminalrc_bue",
+				"/home/sherby/temp_itw/final/cenas.js",
+				"/home/sherby/temp_itw/jogar3.html"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"dadosSolo.vtk",
+					"\\textit{dadosSolo.vtk}",
+					"0.5",
+					"0.7",
+					"0.8",
+					"slice",
+					"chapter",
+					"slice",
+					"Exemplo de um Processo Unificado",
+					"Verão",
+					"na escala de Z,",
+					"\n\\",
+					"itemize",
+					"Feito",
+					"linux",
+					"\\noindent",
+					"this.n",
+					"this.SeqNotes",
+					"int",
+					"file",
+					"283D4B",
+					"304959",
+					"19262F",
+					"616161",
+					"737373",
+					"DDEEDD",
+					"565656",
+					"4D3941",
+					"#111A20",
+					"b_p",
+					"a_p",
+					"tempo",
+					"a",
+					"imagens",
+					"cards",
+					"array",
+					"turn_up",
+					"tile.innerHTML",
+					"restart",
+					"GameContro",
+					"config",
+					"client",
+					"sock_backup",
+					"addr",
+					"hola",
+					"Tile",
+					"tile",
+					"Tile",
+					"tile",
+					"Tile",
+					"tile",
+					"Tile",
+					"randomInd",
+					"drawFaceUp",
+					"drawFaceDown",
+					"Tile",
+					"pickle",
+					"Sock",
+					"sock",
+					"SOCK",
+					"sock",
+					"SOCK",
+					"sock",
+					"meta",
+					"half",
+					"l",
+					"graphic",
+					"len(graphic)",
+					"lst",
+					"cert",
+					"client_auth[a]",
+					"client",
+					"exemplo",
+					"#47c9af",
+					"origin",
+					"table",
+					"t",
+					"userName",
+					"username",
+					"userName",
+					"pass",
+					"userName",
+					"fullname",
+					"conn_sock",
+					"ssl_sock",
+					"Sock",
+					"sock",
+					"Sock",
+					"sock",
+					"Sock",
+					"sock",
+					"self.sock",
+					"list",
+					"Prefixos",
+					"43529",
+					"mydb",
+					"jogador",
+					"#000000000000"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/sherby/Documents/ad/adprojecto1"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/sherby/Documents/pgp/pgp_fase2/fase3.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 37295,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										22330,
+										22330
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 576.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/sherby/Documents/ftv/paraviewRelat.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5592,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										726,
+										726
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 245.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/sherby/.zsh-update",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/sherby/.zshrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2962,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 214.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 116.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,688,37,1342,744,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/Documents/pgp/pgp_fase2/fase3.tex"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 144.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 40,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,53 @@
+! special
+*.foreground:   #eeeeee
+*.background:   #111a20
+*.cursorColor:  #eeeeee
+
+! black
+*.color0:       #101010
+*.color8:       #565656
+
+! red
+*.color1:       #bd4a4a
+*.color9:       #cc6666
+
+! green
+*.color2:       #b7ce42
+*.color10:      #bde077
+
+! yellow
+*.color3:       #fea63c
+*.color11:      #eaa553
+
+! blue
+*.color4:       #3a526b
+*.color12:      #66aabb
+
+! magenta
+*.color5:       #ff5879
+*.color13:      #f26b9e
+
+! cyan
+*.color6:       #72ad8c
+*.color14:      #9fe3bc
+
+! white
+*.color7:       #ddeedd
+*.color15:      #ffffff
+
+URxvt.scrollBar: false
+
+! GohuFont normal
+
+ URxvt.font: xft:gohufont:size=10
+ URxvt.boldFont: xft:gohufont:size=10
+
+! GohuFont small
+
+! URxvt.font: xft:gohufont:size=8
+! URxvt.boldFont: xft:gohufont:size=8
+
+! Google Source Sans Pro Light
+
+! URxvt.font: xft:SourceSansPro-LightIt:size=10
+! URvxt.boldFont: xft:SourceSansPro-LightIt:size=10

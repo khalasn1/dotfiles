@@ -1,0 +1,27 @@
+sw_volume: 100
+audio_device_state:1:sherby
+audio_device_state:1:FIFO
+state: play
+current: 8
+time: 119.977000
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Pierce The Veil/Collide With The Sky/01 May These Noises Startle You In Y.mp3
+1:Pierce The Veil/Collide With The Sky/02 Hell Above.mp3
+2:Pierce The Veil/Collide With The Sky/03 A Match Into Water.mp3
+3:Pierce The Veil/Collide With The Sky/04 King For A Day.mp3
+4:Pierce The Veil/Collide With The Sky/05 Bulls In The Bronx.mp3
+5:Pierce The Veil/Collide With The Sky/06 Props & Mayhem.mp3
+6:Pierce The Veil/Collide With The Sky/07 Tangled In The Great Escape.mp3
+7:Pierce The Veil/Collide With The Sky/08 I'm Low On Gas And You Need A Jac.mp3
+8:Pierce The Veil/Collide With The Sky/09 The First Punch.mp3
+9:Pierce The Veil/Collide With The Sky/10 One Hundred Sleepless Nights.mp3
+10:Pierce The Veil/Collide With The Sky/11 Stained Glass Eyes And Colorful T.mp3
+11:Pierce The Veil/Collide With The Sky/12 Hold On Till May.mp3
+playlist_end
