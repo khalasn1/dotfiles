@@ -11,10 +11,10 @@ Configs and dotfiles
 - Torrents: qBittorrent
 - Compiste Manager: compton
 
-# Screenshot
-
-![screenshot](screenFetch-2015-12-14_14-17-32.png)
-
 # Installing Arch Linux quickly
 
 [Architect Linux](http://sourceforge.net/projects/architect-linux/)
+
+# Screenshot
+
+![screenshot](screenFetch-2015-12-14_14-17-32.png)
